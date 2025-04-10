@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://github.com/MNikdan/MNikdan.github.io/blob/main/assets/pdf/cv.pdf'>CV</a>.
+subtitle: <a href='https://github.com/MNikdan/MNikdan.github.io/blob/main/assets/pdf/cv.pdf'>CV</a>
 
 profile:
   align: right
-  image: prof_pic.png
+  image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     
