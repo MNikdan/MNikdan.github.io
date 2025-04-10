@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>PhD Candidate at Institute of Science and Technology Austria (ISTA)</a>.
+subtitle: <a href='https://github.com/MNikdan/MNikdan.github.io/blob/main/assets/pdf/cv.pdf'>CV</a>.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic.png
   image_circular: false # crops the image to make it circular
   more_info: >
     
