@@ -33,3 +33,14 @@ My research focuses on making neural network training more efficient, particular
 - **Data selection** — designing algorithms to select the most “relevant” training samples to improve efficiency and performance.
 
 I’m especially interested in algorithmic approaches to these problems and occasionally explore systems-level solutions to unlock real-world training speedups.
+
+### Publications
+
+Below you can find a list of my most recent publications.
+
+- Ashkboos, S.\*, **Nikdan, M.\***, Tabesh, S., Castro, R. L., Hoefler, T., & Alistarh, D. (2025). HALO: Hadamard-Assisted Lossless Optimization for Efficient Low-Precision LLM Training and Fine-Tuning. arXiv preprint arXiv:2501.02625. [link](https://arxiv.org/pdf/2501.02625)
+- Panferov, A., Chen, J., Tabesh, S., Castro, R. L., **Nikdan, M.**, & Alistarh, D. (2025). QuEST: Stable Training of LLMs with 1-Bit Weights and Activations. arXiv preprint arXiv:2502.05003. [link](https://arxiv.org/pdf/2502.05003)
+- Nicolicioiu, A.\*, Iofinova, E.\*, Jovanovic, A.\*, Kurtic, E.\*, **Nikdan, M.\***, Panferov, A., ... & Alistarh, D. (2024). Panza: Design and analysis of a fully-local personalized text writing assistant. arXiv preprint arXiv:2407.10994. [link](https://arxiv.org/pdf/2407.10994)
+- **Nikdan, M.\***, Tabesh, S.\*, Crnčević, E., & Alistarh, D. (2024). Rosa: Accurate parameter-efficient fine-tuning via robust adaptation. In International Conference on Machine Learning. [link](https://arxiv.org/pdf/2401.04679)
+- **Nikdan, M.\***, Pegolotti, T.\*, Iofinova, E., Kurtic, E., & Alistarh, D. (2023, July). SparseProp: Efficient sparse backpropagation for faster training of neural networks at the edge. **Oral** in International Conference on Machine Learning (pp. 26215-26227). PMLR. [link](https://proceedings.mlr.press/v202/nikdan23a/nikdan23a.pdf)
+- Bitarafan, A., **Nikdan, M.**, & Baghshah, M. S. (2020). 3D image segmentation with sparse annotation by self-training and internal registration. IEEE Journal of Biomedical and Health Informatics, 25(7), 2665-2672. [link](https://ieeexplore.ieee.org/document/9264631)
