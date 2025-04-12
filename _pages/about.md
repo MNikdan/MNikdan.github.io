@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://github.com/MNikdan/MNikdan.github.io/blob/main/assets/pdf/cv.pdf'>CV</a>
+subtitle: <a href='assets/pdf/cv.pdf'>CV</a>
 
 profile:
   align: right
@@ -37,7 +37,7 @@ I’m especially interested in algorithmic approaches to these problems and occa
 ### Publications
 
 Below you can find a list of my most recent publications.
-
+- Nikdan, M., Cohen-Addad, V., Alistarh, D., & Mirrokni, V. (2025). Efficient Data Selection at Scale via Influence Distillation. Preprint. (link)[assets/pdf/influence_distillation.pdf]
 - Ashkboos, S.\*, **Nikdan, M.\***, Tabesh, S., Castro, R. L., Hoefler, T., & Alistarh, D. (2025). HALO: Hadamard-Assisted Lossless Optimization for Efficient Low-Precision LLM Training and Fine-Tuning. arXiv preprint arXiv:2501.02625. [link](https://arxiv.org/pdf/2501.02625)
 - Panferov, A., Chen, J., Tabesh, S., Castro, R. L., **Nikdan, M.**, & Alistarh, D. (2025). QuEST: Stable Training of LLMs with 1-Bit Weights and Activations. arXiv preprint arXiv:2502.05003. [link](https://arxiv.org/pdf/2502.05003)
 - Nicolicioiu, A.\*, Iofinova, E.\*, Jovanovic, A.\*, Kurtic, E.\*, **Nikdan, M.\***, Panferov, A., ... & Alistarh, D. (2024). Panza: Design and analysis of a fully-local personalized text writing assistant. arXiv preprint arXiv:2407.10994. [link](https://arxiv.org/pdf/2407.10994)
