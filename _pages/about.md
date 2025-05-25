@@ -44,3 +44,5 @@ Below you can find a list of my most recent publications.
 - **Nikdan, M.\***, Tabesh, S.\*, Crnčević, E., & Alistarh, D. (2024). Rosa: Accurate parameter-efficient fine-tuning via robust adaptation. In International Conference on Machine Learning. [link](https://arxiv.org/pdf/2401.04679)
 - **Nikdan, M.\***, Pegolotti, T.\*, Iofinova, E., Kurtic, E., & Alistarh, D. (2023, July). SparseProp: Efficient sparse backpropagation for faster training of neural networks at the edge. **Oral** in International Conference on Machine Learning (pp. 26215-26227). PMLR. [link](https://proceedings.mlr.press/v202/nikdan23a/nikdan23a.pdf)
 - Bitarafan, A., **Nikdan, M.**, & Baghshah, M. S. (2020). 3D image segmentation with sparse annotation by self-training and internal registration. IEEE Journal of Biomedical and Health Informatics, 25(7), 2665-2672. [link](https://ieeexplore.ieee.org/document/9264631)
+
+<meta name="google-site-verification" content="ebReLOnS_j-RvKflYprvLySmiL7F-5fj2VH2-qeLDBc" />
